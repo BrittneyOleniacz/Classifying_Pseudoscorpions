@@ -1,0 +1,127 @@
+﻿,Characters,MAPS,AMNH
+Pedipalps,Pedipalps: normal; raptorial,0,0
+,Median maxillary lyrifissure: present; absent,0,?
+,Median maxillary lyrifissure: circular/u-shaped; straight,?,?
+,Median maxillary lyrifissue: submedial or subdistal; subbasal,?,?
+,Posterior maxillar lyrifissure: absent; present,?,?
+,"Intermaxillary jugum: short, thick; long, slender",0,0
+,"Pharyngeal pump, dorsal keel: normal; enlarged",0,0
+,Coxal Shoulder: absent; present,0,?
+,"Coxal apex, setae: 2; 3",?,?
+,Coxal apex: triangular; rounded,?,?
+,"Femur, trichobothria: absent; present",0,?
+,"Femur, 3 (or 2) stout setae: absent; present",0,?
+,"Femur, sub-basal tubercle: absent; present",?,?
+,"Venom apparatus, fixed finger: absent; present",1,1
+,"Venom apparatus, moveable finger: absent; present",0,1
+,Venom duct(s): medium length; short,1,0
+,Nodus ramosus: normal; inflated,1,1
+,Movable chelal finger: seta absent; seta present,0,0
+,Inwardly directed teeth: absent; present,0,0
+,Accessory chelal teeth: absent; present,0,0
+,Trichobothrium xs: absent; present,0,0
+,Trichobothrium eb and esb: on finger; on hand,0,0
+,Trichobothrium eb: extbasal; interno-distal,0,0
+,Trichobothrium isb: internal; external,1,0
+,Trichobothrium ist: sub-basal; subdistal,1,0
+,Trichobothria ib and isb: lateral; dorsal,0,0
+,Trichobothrium ib: on fingers; on hand,0,0
+,"Trichobothria, movable finger: t,b,st,sb; t,st,b,sb",0,0
+,"Trichobothia, movable finger: t, st; st, t",0,0
+,Trichobothrial number 15 or fewer; >30,0,0
+,"Trichobothrial number, fixed finger: 8 or fewer; 11",0,0
+,Trichobothrium t: acuminate; lanceolate,0,0
+,"Pit-like structures: absent, present",0,0
+Chelicerae,Velum: absent; present,?,1
+,Lamina exterior: absent; present,?,?
+,Movable cheliceral finger teeth: numerous; few,?,?
+,Seta gs: medial; distal,?,1
+,Flagellar areole: linear; elliptical,?,?
+,"Flagellum, No. of blades: 6 or more; 2-4",?,?
+,"Flagellum, No. of blades: 2 or more; 1",?,?
+,"Flagellum, spinules: present; absent",?,?
+,"Flagellum, penultimate blade: straight; curved, recumbent",?,?
+,Serrula exterior: free; partially fused; fused,?,?
+,Cheliceral hand: smooth; sculptured,?,?
+,Fixed finger teeth: several; none,?,?
+,Galea: 0-1; several,?,?
+Carapace,Anterior lobes: absent; present,0,0
+,Median anterior lobes: 1; 2-4,-,-
+,Anterior margin: straight or convex; sinuate,0,0
+,Anterior margin: straight; serrate,0,0
+,Carapace shape: rectangular; triangular,0,0
+,Ocular tuberle: absent; present,?,0
+,Eye position: nr anterior margin; removed,?,0
+,Metazone: not depressed; depressed,0,0
+,Carapacal alae: absent; present,0,0
+,Carapacal posterior margin: straight; v-shaped,0,0
+,Carapace/abdomen articulation: absent; present,0,0
+,"Eyes, maximum number: 4; 2; 0",?,1
+Legs,Coxal spines: absent; present,?,?
+,Intercoxal tubercle: absent; present,?,?
+,Intercoxal tubercle: monosetae; bisetose,?,?
+,Coxa I protuberance: absent; present,0,?
+,Pseudosternum: absent; present,?,?
+,Coxal articulation: absent; present,0,?
+,Coxa IV posteriorly expanded: absent; present,?,?
+,Coxal width: I=IV; I<IV,0,?
+,"Coxal width, male: absent; present",?,?
+,"Femur I and II, slit sensillum: present; absent",?,?
+,"Femur I and II, slit sensillum: sub-basal; subdistal",?,?
+,"Femur I and II, slit sensillum: perpendicular; longitudianl",?,?
+,"Femur I and II, slit sensilla, group of 3: absent; present",?,?
+,"Femur I and II, slit sensilla, group of 3: sub-basal; subdistal",?,?
+,"Femur I and II, slit sensilla mound: absent; present",?,?
+,"Femur I and II, slit sensilla: straight; semi-circular",?,?
+,"Femur I and II, slit sensilla: otherwise; circular",?,?
+,Femur/patella I and II: perpendicular; oblique,0,?
+,Femur/patella IV: oblique; perpendicular,1,?
+,Femora/patellae: sparate; fused,0,?
+,Femora/patellae I and II: femur long: patella long,0,?
+,Metatarsi/tarsi I and II: separate; fused,?,?
+,Metatarsi/tarsi III and IV: sperate; fused,0,?
+,"Tarsi, raised slit sensillum: not raised: raised",0,?
+,Subterminal tarsal seta: acuminate; dentate,1,?
+,"Claws on tarsus I, male: normal; modified",?,?
+,Arolium and claws: shorter; longer,0,?
+,"Arolium, extensions: absent; present",1,?
+Male Genitalia,Longitudinal setal row in atrium: absent; present,?,?
+,Setal row in atrium: few; many,?,?
+,Male genitalia: normal; enlarged ,?,?
+,Male genitalia: otherwise; 'chernetid',?,?
+,Ram's horn organs: absent; present,?,?
+,Median genital sac: 1; 2,?,?
+,Sperm mass of spermatophore: simple; complex,?,?
+,Stalk of spermatophore: simple; complex,?,?
+Female Genitalia,Spermathecae: absent; present,?,?
+,Lateral apodeme: absent; present,?,?
+,Lateral apodeme frame: absent; present,?,?
+,Lateral apodeme frame sclerotisation: weak; strong,?,?
+,Median cribiform plates: 1; 2 or more,?,?
+Abdomen,Tergites: straight; chevron-shaped,0,0
+,Tergite XI and sternite XI: separate; fused,0,0
+,Pleural membrane: striate; granulate,?,?
+,Pleural membrane: otherwise; pointed,?,?
+,Pleural membrane: otherwise; papillae,?,?
+,Pleural sclerites: absent; present,?,?
+,Stigmatic helix of spiracle: present; absent,?,?
+,Spiracular guard sclerite: absent; present,?,?
+,Spiracles: transverse; oblique,?,?
+,Spiracles near sternites IV and V: absent; present,?,?
+,Spiracles fused to sternites: absent; present,?,?
+,Anterior tracheae: thick; narrow,?,?
+,"Genital percula setae, male: accicular; bifurcate",?,?
+,Setae on genital sternites: otherwise; posterior row,?,?
+,Female operculae setae: normal; minute,?,?
+,"Posterior gential operculum, male: not cleft; cleft",?,?
+,"Sternites, sensory setae: absent; present",?,?
+,Sternite XI: sclerotised; desclerotised,?,?
+,Sternite XI: lyrifissures: few; numerous,?,?
+,Sternite XI; present; absent,?,?
+,"Sternite XI, anus: not encolsing; enclosing",?,?
+,Anal rim: not raised; raised,?,?
+,Anal plates: not sclerotised; scleotised,?,?
+,Shape: subrectangular; ovoid,?,?
+General,Pseuododerm: absent; present,0,
+,Setea: straight; curved,0,0
+Behavior,Sperm transfer: solitary; mating dance,?,?

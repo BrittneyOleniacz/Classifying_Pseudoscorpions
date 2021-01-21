@@ -1,0 +1,127 @@
+﻿,Chthoniidae,Tridenchthoniidae,Lechytiidae,Feaellidae,Pseuodgarypidae,Ideoroncidae,Bochicidae,Hyidae,Gymnobisiidae,Neobisiidae,Syarinidae,Parahyidae,Garypidae,Larcidae,Cheriridiidae,Pseudochiridiidae,Geogarypidae,Olpiidae,Menthidae,Sternophoridae,Withiidae,Cheliferidae,Chernetidae,Atemidae
+Pedipalps: normal; raptorial,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Median maxillary lyrifissure: present; absent,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Median maxillary lyrifissure: circular/u3shaped; straight,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Median maxillary lyrifissue: submedial or subdistal; subbasal,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Posterior maxillar lyrifissure: absent; present,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Intermaxillary jugum: short, thick; long, slender",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pharyngeal pump, dorsal keel: normal; enlarged",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coxal Shoulder: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"Coxal apex, setae: 2; 3",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coxal apex: triangular; rounded,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur, trichobothria: absent; present",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"Femur, 3 (or 2) stout setae: absent; present",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur, sub3basal tubercle: absent; present",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Venom apparatus, fixed finger: absent; present",0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+"Venom apparatus, moveable finger: absent; present",0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0
+Venom duct(s): medium length; short,3,3,3,3,3,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Nodus ramosus: normal; inflated,3,3,3,3,3,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1
+Movable chelal finger: seta absent; seta present,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inwardly directed teeth: absent; present,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accessory chelal teeth: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Trichobothrium xs: absent; present,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichobothrium eb and esb: on finger; on hand,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichobothrium eb: extbasal; interno3distal,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichobothrium isb: internal; external,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,3,0,0,0,0
+Trichobothrium ist: sub3basal; subdistal,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+Trichobothria ib and isb: lateral; dorsal,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichobothrium ib: on fingers; on hand,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trichobothria, movable finger: t,b,st,sb; t,st,b,sb",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trichobothia, movable finger: t, st; st, t",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichobothrial number 15 or fewer; >30,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trichobothrial number, fixed finger: 8 or fewer; 11",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Trichobothrium t: acuminate; lanceolate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pit3like structures: absent, present",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Velum: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+Lamina exterior: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+Movab;e cheliceral finger teeth: numerous; few,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+Seta gs: medial; distal,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+Flagellar areole: linear; elliptical,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Flagellum, No. of blades: 6 or more; 234",0,0,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+"Flagellum, No. of blades: 2 or more; 1",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Flagellum, spinules: present; absent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Flagellum, penultimate blade: straight; curved, recumbent",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serrula exterior: free; partially fused; fused,0,0,0,2,2,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+Cheliceral hand: smooth; sculptured,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fixed finger teeth: several; none,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galea: 031; several,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anterior lobes: absent; present,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Median anterior lobes: 1; 234,3,3,3,1,0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Anterior margin: straight or convex; sinuate,0,0,0,3,3,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+Anterior margin: straight; serrate,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carapace shape: rectangular; triangular,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+Ocular tuberle: absent; present,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+Eye position: nr anterior margin; removed,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,3,0,0,0,0
+Metazone: not depressed; depressed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Carapacal alae: absent; present,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carapacal posterior margin: straightl; v3shaped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Carapace/abdomen articulation: absent; present,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Eyes, maximum number: 4; 2; 0",0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,2,1,1,1,1
+Coxal spines: absent; present,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intercoxal tubercle: absent; present,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intercoxal tubercle: monosetae; bisetose,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coxa I protuberance: absent; present,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudosternum: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Coxal articulation: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Coxa IV posteriorly expanded: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Coxal width: I=IV; I<IV,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+"Coxal width, male: absent; present",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Femur I and II, slit sensillum: present; absent",0,0,0,1,1,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur I and II, slit sensillum: sub3basal; subdistal",0,0,0,3,3,1,4,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Femur I and II, slit sensillum: perpendicular; longitudianl",0,0,0,3,3,0,4,0,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur I and II, slit sensilla, group of 3: absent; present",0,0,0,3,3,0,4,1,4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur I and II, slit sensilla, group of 3: sub3basal; subdistal",0,0,0,3,3,0,4,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur I and II, slit sensilla mound: absent; present",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Femur I and II, slit sensilla: straight; semi3circular",0,0,0,3,3,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"Femur I and II, slit sensilla: otherwise; circular",0,0,0,3,3,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Femur/patella I and II: perpendicular; oblique,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Femur/patella IV: oblique; perpendicular,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Femora/patellae: sparate; fused,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Femora/patellae I and II: femur long: patella long,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1
+Metatarsi/tarsi I and II: separate; fused,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1
+Metatarsi/tarsi III and IV: sperate; fused,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1
+"Tarsi, raised slit sensillum: not raised: raised",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Subterminal tarsal seta: acuminate; dentate,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+"Claws on tarsus I, male: normal; modified",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Arolium and claws: shorter; longer,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0
+"Arolium, extensions: absent; present",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Longitudinal setal row in atrium: absent; present,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setal row in atrium: few; many,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Male genitalia: normal; enlarged ,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Male genitalia: otherwise; 'chernetid',0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Ram's horn organs: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Median genital sac: 1; 2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sperm mass of spermatophore: simple; complex,0,0,4,4,0,4,4,4,4,0,4,4,0,0,0,4,0,0,4,4,1,1,1,1
+Stalk of spermatophore: simple; complex,1,1,4,4,0,4,4,4,4,0,4,4,0,0,0,4,0,0,4,4,0,0,0,0
+Spermathecae: absent; present,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1
+Lateral apodeme: absent; present,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Lateral apodeme frame: absent; present,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lateral apodeme frame sclerotisation: weak; strong,0,1,0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Median cribiform plates: 1; 2 or more,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Tergites: straight; chevron3shaped,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Tergite XI and sternite XI: separate; fused,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pleural membrane: striate; granulate,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pleural membrane: otherwise; pointed,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pleural membrane: otherwise; papillae,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pleural sclerites: absent; present,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stigmatic helix of spiracle: present; absent,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Spiracular guard sclerite: absentl present,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spiracles: transverse; oblique,0,1,0,0,0,1,0,1,4,0,1,0,0,1,0,0,1,1,1,0,1,1,1,1
+Spiracles near sternites IV and V: absent; present,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spiracles fused to sternites: absent; present,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anterior tracheae: thick; narrow,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Genital percula setae, male: accicular; bifurcate",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Setae on genital sternites: otherwise; posterior row,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Female operculae setae: normal; minute,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Posterior gential operculum, male: not cleft; cleft",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sternites, sensory setae: absent; present",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sternite XI: sclerotised; desclerotised,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sternite XI: lyrifissures: few; numerous,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sternite XI; present; absent,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sternite XI, anus: not encolsing; enclosing",0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0
+Anal rim: not raised; raised,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Anal plates: not sclerotised; scleotised,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shape: subrectangular; ovoid,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+Pseuododerm: absent; present,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Setea: straight; curved,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+Sperm transfer: solitary; mating dance,0,0,4,4,0,4,4,4,4,0,4,4,0,0,0,4,0,0,4,4,1,1,1,1
